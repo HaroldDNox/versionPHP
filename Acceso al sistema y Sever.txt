@@ -1,0 +1,9 @@
+Acceso al sistema web:
+usuario: hscorpion1993@hotmail.com
+clave: 123456
+
+Servidor: "localhost" 
+Usuario: "root"  
+Clave: "" 
+DB: "examen_php"
+
